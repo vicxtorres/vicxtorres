@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicxtorres
+- 👋 Hi, I’m vickyy
 - 🌱 I’m currently learning C
 
 <!---
