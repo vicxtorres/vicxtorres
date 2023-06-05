@@ -1,4 +1,4 @@
-- 👋 Hi, I’m vicky
+- Hii, I’m vicky
 - 🌱 I’m currently learning C and Java
 
 <!---
