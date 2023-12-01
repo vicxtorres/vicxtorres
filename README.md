@@ -1,5 +1,11 @@
 Hi! I’m vicky
-Skills: Java, C. I’m currently learning HTML, CSS and JavaScript 
+
+Programming languages: Java, C 
+
+Database: MySQL 
+
+Web development: HTML, CSS, JavaScript,
+Angular
 
 <!---
 vicxtorres/vicxtorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
